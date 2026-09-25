@@ -50,7 +50,11 @@
 </p>
 
 ---
+## 🚀 Deployment link
 
+https://sankhya-iq-ai-powered-statistical-t.vercel.app/
+
+---
 ## 🌐 Multilingual Accessibility (English & हिन्दी Available)
 
 <p align="center">
